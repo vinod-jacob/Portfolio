@@ -3,34 +3,59 @@
 body {
     background-color: #f0ece3;
 }
+
 hr {
-    border-style:dotted none none none;
-    width: 5%;
-    border-color: #00416d;
+    border-style: dotted none none none;
+    width: 55%;
+    border-color: #596e79;
     border-width: 3px;
+    margin-left: 0;
 }
 h1 {
-    color: #596e79;
-    font-family: sans-serif;
+    color: #00416d;
+    font-family: 'Sacramento';
+    font-size: 562.5%;
 }
 h3 {
-    color: #596e79;
+    color: #00416d;
     font-family: sans-serif;
 }
 textarea{
     background-color: #e3dfc8;
-
 }
 p {
-    font-family: sans-serif;
+    font-family: 'Merriweather';
+}
+.desig
+{
+    position: relative;
+    left: 35px;
+}
+.summary
+{
+    position: relative;
+    left: 35px;
 }
 
 ul {
     font-family: sans-serif;
 }
-table {
+table{
     font-family: sans-serif;
+}
+
+.first-table:hover
+{
+    background-color: #f5b461;
 }
 label {
     font-family: sans-serif;
+}
+
+img:hover {
+    background-color: #f5b461;
+}
+
+#NameHeading{
+    margin: 0px 0px -15px 0px;
 }
